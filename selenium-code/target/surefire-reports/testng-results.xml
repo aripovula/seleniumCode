@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-09T07:55:50Z" name="Suite" finished-at="2019-07-09T07:55:50Z" duration-ms="47">
+    <groups>
+      <group name="smoke">
+        <method signature="CostOfSalesTest.BTest2()[pri:0, instance:info.aripov.selenium.CostOfSalesTest@36ebc363]" name="BTest2" class="info.aripov.selenium.CostOfSalesTest"/>
+        <method signature="RevenueTest.Test1()[pri:0, instance:info.aripov.selenium.RevenueTest@22555ebf]" name="Test1" class="info.aripov.selenium.RevenueTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2019-07-09T07:55:50Z" name="Test" finished-at="2019-07-09T07:55:50Z" duration-ms="47">
+      <class name="info.aripov.selenium.CostOfSalesTest">
+        <test-method signature="BTest2()[pri:0, instance:info.aripov.selenium.CostOfSalesTest@36ebc363]" started-at="2019-07-09T07:55:50Z" name="BTest2" finished-at="2019-07-09T07:55:50Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTest2 -->
+      </class> <!-- info.aripov.selenium.CostOfSalesTest -->
+      <class name="info.aripov.selenium.RevenueTest">
+        <test-method signature="Test1()[pri:0, instance:info.aripov.selenium.RevenueTest@22555ebf]" started-at="2019-07-09T07:55:50Z" name="Test1" finished-at="2019-07-09T07:55:50Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- info.aripov.selenium.RevenueTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
